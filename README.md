@@ -1,3 +1,9 @@
+Original copy from https://github.com/ron1818/PhD_code/tree/master/EMD_EEMD
+
+Need emd_eemd part
+
+the ceemd part might directly from María Eugenia Torres, http://bioingenieria.edu.ar/grupos/ldnlys/metorres/ or Patric Flandrin.
+
 Annoucement
 ===========
 No more support on matlab code due to no matlab license and project migration.
